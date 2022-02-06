@@ -30,6 +30,4 @@ The project is licensed under the [GNU General Public License v3.0](https://www.
 This work was funded by:
 
 <img align="middle" src="docs/_images/wisenet.PNG" width="150"> [Wisenet Research Center (UiA)](https://wisenet.uia.no/) 
-[Data-Driven Pump Scheduling for Cost Minimization in Water Networks](https://ieeexplore.ieee.org/abstract/document/9551168)
-
 <img align="middle" src="docs/_images/_02_NIVA_transparent_stor (2).png" width="100"> Norsk institutt for vannforskning (https://www.niva.no/) 
