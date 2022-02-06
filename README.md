@@ -32,4 +32,4 @@ This work was funded by:
 <img align="middle" src="docs/images/uia-horizontal-with-name-Positive.jpg" width="150"> [Wisenet Research Center (UiA)](https://wisenet.uia.no/) 
 [Data-Driven Pump Scheduling for Cost Minimization in Water Networks](https://ieeexplore.ieee.org/abstract/document/9551168)
 
-<img align="middle" src="docs/images/_02_NIVA_transparent_stor (2).png" width="100"> Norsk institutt for vannforskning (https://www.niva.no/) 
+<img align="middle" src="docs/_images/_02_NIVA_transparent_stor (2).png" width="100"> Norsk institutt for vannforskning (https://www.niva.no/) 
