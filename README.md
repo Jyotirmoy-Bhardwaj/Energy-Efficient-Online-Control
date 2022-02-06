@@ -10,6 +10,14 @@ This is a classical **prediction problem** solved by the Recurrent Neural Networ
   <img src="docs/_images/MAE_Flekkerøya.png" width="250" />
 </p>
 
+
+Using `conda`, `tensorflow` can be installed as follows (for beginners):
+```
+$ conda create -n tf tensorflow
+$ conda activate tf
+```
+
+
 # Requirements:
 - [`TensorFlow`](https://www.tensorflow.org/)
 - [`Keras`](https://keras.io/)
