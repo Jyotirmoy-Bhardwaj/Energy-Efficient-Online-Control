@@ -2,7 +2,6 @@
 # Energy Efficient Online Control of a WDN
 <p align=justify>
 In this work, we show how to derive a cost-efficient pump control trajectory online for a water distribution network. 
-Using `conda`, `tensorflow` can be installed as follows (for beginners):
 ```
 $ conda create -n tf tensorflow
 $ conda activate tf
