@@ -1,16 +1,7 @@
 
-# time-ahead-estimation-RNN
+# Energy Efficient Online Control of a WDN
 <p align=justify>
-This is a classical **prediction problem** solved by the Recurrent Neural Networks assisted by dropouts. One of the key challenges in any Machine Learning (ML) driven-control formulation is the estimation of some of the independent variables. In major applications of ML (such as Autonomous cars, real-time image processing, industrial control, etc.), the user is expected to perform time-ahead estimation of some of the key independent variables. One such example is the time-ahead estimation of independent variables such as dynamic energy price  {π<sub>t</sub>} and expected user water demand {d<sub>t</sub>}. In this work, we present a code; which can potentially estimate/predict the time-ahead expected water demand given the historical data. 
-
-  
-  *An example of a Water Distribution Network [a. Estimated Vs Actual] [b. Training Loss]:
-<p float="left">
-  <img src="docs/_images/Estimated_q_Flekkerøya.png" width="250" /> 
-  <img src="docs/_images/MAE_Flekkerøya.png" width="250" />
-</p>
-
-
+In this work, we show how to derive a cost-efficient pump control trajectory online for a water distribution network. 
 Using `conda`, `tensorflow` can be installed as follows (for beginners):
 ```
 $ conda create -n tf tensorflow
